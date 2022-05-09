@@ -1,0 +1,1 @@
+web: gunicorn staffsearch.wsgi --log-file -

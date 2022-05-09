@@ -1,0 +1,8 @@
+2022-04-27 14:12:44.135173+00:00: The fields: about, research, publications, teaching, professional_activities, were updated on Michael Benedict's profile
+2022-04-27 14:51:04.893134+00:00: The fields: research, were updated on Anderson Marina's profile
+2022-04-27 15:11:17.914889+00:00: The fields: last_updated, were updated on Michael Benedict's profile
+2022-04-27 15:49:27.557965+00:00: The fields: last_updated, research, were updated on Anderson Marina's profile
+2022-04-27 16:17:15.578954+00:00: The fields: publications, were updated on Stagi Massimiliano's profile
+2022-04-27 16:42:28.463201+00:00: The fields: role, last_updated, about, research, publications, teaching, professional_activities, were updated on Treharne Robert's profile
+2022-04-27 16:51:10.948636+00:00: The fields: last_updated, were updated on Stagi Massimiliano's profile
+2022-04-28 10:13:17.388923+00:00: The fields: role, last_updated, about, research, publications, teaching, professional_activities, were updated on Treharne Robert's profile
